@@ -8,13 +8,13 @@ class ConcatenationofArrayTest extends Specification {
 
     def "should solve simple case"() {
         given:
-        def input = [1,2,1] as int[]
+        def input = [1, 2, 1] as int[]
 
         when:
         def result = sut.getConcatenation(input)
 
         then:
-        result == [1,2,1,1,2,1] as int[]
+        result == [1, 2, 1, 1, 2, 1] as int[]
 
     }
 }
