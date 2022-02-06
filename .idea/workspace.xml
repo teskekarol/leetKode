@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd844a2a-8933-4a8d-bc28-5ef22a9b2f17" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +78,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -122,13 +126,13 @@
       <recent name="medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.PathCrossingTest.should solve complicated case">
-    <configuration name="BuildArrayfromPermutationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.RepeatedSubstringPatternTest.should solve cases">
+    <configuration name="DeleteNodeinaLinkedListTest.should solve simple case" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;easy.BuildArrayfromPermutationTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;easy.DeleteNodeinaLinkedListTest.should solve simple case&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -186,18 +190,20 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="TransposeMatrixTest.should transpose matrix" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="RepeatedSubstringPatternTest.should solve cases" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;easy.TransposeMatrixTest.should transpose matrix&quot;" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
             <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;easy.RepeatedSubstringPatternTest.should solve cases&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -230,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.RepeatedSubstringPatternTest.should solve cases" />
+        <item itemvalue="Gradle.DeleteNodeinaLinkedListTest.should solve simple case" />
         <item itemvalue="Gradle.PathCrossingTest.should solve complicated case" />
         <item itemvalue="Gradle.PathCrossingTest.should pass testcases" />
         <item itemvalue="Gradle.TransposeMatrixTest.should transpose matrix2" />
-        <item itemvalue="Gradle.TransposeMatrixTest.should transpose matrix" />
-        <item itemvalue="Gradle.BuildArrayfromPermutationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +257,10 @@
       <workItem from="1640973087757" duration="12270000" />
       <workItem from="1642196141372" duration="2405000" />
       <workItem from="1642678671789" duration="437000" />
-      <workItem from="1643741072458" duration="2913000" />
+      <workItem from="1643741072458" duration="4451000" />
+      <workItem from="1643973446529" duration="442000" />
+      <workItem from="1643973910192" duration="438000" />
+      <workItem from="1644164102420" duration="1639000" />
     </task>
     <servers />
   </component>
@@ -318,7 +327,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
