@@ -128,7 +128,7 @@
       <recent name="medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MinimumIndexSumofTwoListsTest">
+  <component name="RunManager" selected="Gradle.MinimumValuetoGetPositiveStepbyStepSumTest.should solve">
     <configuration name="ChaseTest.should solve" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -221,7 +221,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="RepeatedSubstringPatternTest.should solve cases" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MinimumValuetoGetPositiveStepbyStepSumTest.should solve" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -234,7 +234,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;easy.RepeatedSubstringPatternTest.should solve cases&quot;" />
+            <option value="&quot;easy.MinimumValuetoGetPositiveStepbyStepSumTest.should solve&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -246,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MinimumValuetoGetPositiveStepbyStepSumTest.should solve" />
         <item itemvalue="Gradle.MinimumIndexSumofTwoListsTest" />
         <item itemvalue="Gradle.MinimumIndexSumofTwoListsTest.should solve case 3" />
         <item itemvalue="Gradle.MinimumIndexSumofTwoListsTest.should solve case 2" />
         <item itemvalue="Gradle.ChaseTest.should solve" />
-        <item itemvalue="Gradle.RepeatedSubstringPatternTest.should solve cases" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +270,7 @@
       <workItem from="1643741072458" duration="4451000" />
       <workItem from="1643973446529" duration="442000" />
       <workItem from="1643973910192" duration="438000" />
-      <workItem from="1644164102420" duration="5625000" />
+      <workItem from="1644164102420" duration="6710000" />
     </task>
     <servers />
   </component>
