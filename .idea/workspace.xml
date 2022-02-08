@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd844a2a-8933-4a8d-bc28-5ef22a9b2f17" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/easy/MinimumValuetoGetPositiveStepbyStepSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/easy/MinimumValuetoGetPositiveStepbyStepSum.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +270,7 @@
       <workItem from="1643741072458" duration="4451000" />
       <workItem from="1643973446529" duration="442000" />
       <workItem from="1643973910192" duration="438000" />
-      <workItem from="1644164102420" duration="6710000" />
+      <workItem from="1644164102420" duration="7097000" />
     </task>
     <servers />
   </component>
