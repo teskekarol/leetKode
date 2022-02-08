@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd844a2a-8933-4a8d-bc28-5ef22a9b2f17" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +105,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -121,24 +120,29 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="easy" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="easy" />
       <recent name="medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.RepeatedSubstringPatternTest.should solve cases">
-    <configuration name="DeleteNodeinaLinkedListTest.should solve simple case" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.MinimumIndexSumofTwoListsTest">
+    <configuration name="ChaseTest.should solve" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;easy.DeleteNodeinaLinkedListTest.should solve simple case&quot;" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
             <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;easy.ChaseTest.should solve&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -148,18 +152,20 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PathCrossingTest.should pass testcases" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MinimumIndexSumofTwoListsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;easy.PathCrossingTest.should pass testcases&quot;" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
             <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;easy.MinimumIndexSumofTwoListsTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -169,18 +175,43 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PathCrossingTest.should solve complicated case" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MinimumIndexSumofTwoListsTest.should solve case 2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;easy.PathCrossingTest.should solve complicated case&quot;" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
             <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;easy.MinimumIndexSumofTwoListsTest.should solve case 2&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MinimumIndexSumofTwoListsTest.should solve case 3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;easy.MinimumIndexSumofTwoListsTest.should solve case 3&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -213,34 +244,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="TransposeMatrixTest.should transpose matrix2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;easy.TransposeMatrixTest.should transpose matrix2&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MinimumIndexSumofTwoListsTest" />
+        <item itemvalue="Gradle.MinimumIndexSumofTwoListsTest.should solve case 3" />
+        <item itemvalue="Gradle.MinimumIndexSumofTwoListsTest.should solve case 2" />
+        <item itemvalue="Gradle.ChaseTest.should solve" />
         <item itemvalue="Gradle.RepeatedSubstringPatternTest.should solve cases" />
-        <item itemvalue="Gradle.DeleteNodeinaLinkedListTest.should solve simple case" />
-        <item itemvalue="Gradle.PathCrossingTest.should solve complicated case" />
-        <item itemvalue="Gradle.PathCrossingTest.should pass testcases" />
-        <item itemvalue="Gradle.TransposeMatrixTest.should transpose matrix2" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +270,7 @@
       <workItem from="1643741072458" duration="4451000" />
       <workItem from="1643973446529" duration="442000" />
       <workItem from="1643973910192" duration="438000" />
-      <workItem from="1644164102420" duration="1639000" />
+      <workItem from="1644164102420" duration="5625000" />
     </task>
     <servers />
   </component>
@@ -340,6 +350,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/easy/TransposeMatrix.kt</url>
           <line>9</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/easy/MinimumIndexSumofTwoLists.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
