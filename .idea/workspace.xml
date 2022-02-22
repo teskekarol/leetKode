@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd844a2a-8933-4a8d-bc28-5ef22a9b2f17" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/groovy/easy/ChaseTest.groovy" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,8 +128,8 @@
       <recent name="medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.FindGreatestCommonDivisorofArrayTest.should cases">
-    <configuration name="BookingTest.should min sum xd" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.RemoveElementTest.should remove elements">
+    <configuration name="JustFunTest.should map to map gropped by length" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -143,7 +142,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;easy.BookingTest.should min sum xd&quot;" />
+            <option value="&quot;easy.JustFunTest.should map to map gropped by length&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -153,7 +152,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="BookingTest.should min sum" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="JustFunTest.should sum strings len" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -166,7 +165,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;easy.BookingTest.should min sum&quot;" />
+            <option value="&quot;easy.JustFunTest.should sum strings len&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -176,7 +175,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="BookingTest.should min sum2 (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PartitioningIntoMinimumNumberOfDeciBinaryNumbersTest.should solve" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -189,7 +188,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;easy.BookingTest.should min sum2&quot;" />
+            <option value="&quot;medium.PartitioningIntoMinimumNumberOfDeciBinaryNumbersTest.should solve&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -199,7 +198,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="BookingTest.should min sum3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="RemoveElementTest.should remove elements" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -212,7 +211,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;easy.BookingTest.should min sum3&quot;" />
+            <option value="&quot;easy.RemoveElementTest.should remove elements&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -222,7 +221,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="FindGreatestCommonDivisorofArrayTest.should cases" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="RemoveElementTest.should remove elements2 " type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -235,7 +234,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;easy.FindGreatestCommonDivisorofArrayTest.should cases&quot;" />
+            <option value="&quot;easy.RemoveElementTest.should remove elements2 &quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -247,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.FindGreatestCommonDivisorofArrayTest.should cases" />
-        <item itemvalue="Gradle.BookingTest.should min sum xd" />
-        <item itemvalue="Gradle.BookingTest.should min sum3" />
-        <item itemvalue="Gradle.BookingTest.should min sum2 (1)" />
-        <item itemvalue="Gradle.BookingTest.should min sum" />
+        <item itemvalue="Gradle.RemoveElementTest.should remove elements" />
+        <item itemvalue="Gradle.RemoveElementTest.should remove elements2 " />
+        <item itemvalue="Gradle.PartitioningIntoMinimumNumberOfDeciBinaryNumbersTest.should solve" />
+        <item itemvalue="Gradle.JustFunTest.should sum strings len" />
+        <item itemvalue="Gradle.JustFunTest.should map to map gropped by length" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +272,7 @@
       <workItem from="1643973910192" duration="438000" />
       <workItem from="1644164102420" duration="13559000" />
       <workItem from="1644921319579" duration="348000" />
-      <workItem from="1645196018034" duration="2022000" />
+      <workItem from="1645196018034" duration="9859000" />
     </task>
     <servers />
   </component>
@@ -358,6 +357,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/easy/MinimumIndexSumofTwoLists.kt</url>
           <line>12</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/RemoveElement.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
