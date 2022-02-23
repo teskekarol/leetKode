@@ -128,8 +128,8 @@
       <recent name="medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.RemoveElementTest.should remove elements">
-    <configuration name="JustFunTest.should map to map gropped by length" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.PrintInOrderRunnerTest.should return in order 3 2 1">
+    <configuration name="PrintInOrderRunnerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -142,7 +142,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;easy.JustFunTest.should map to map gropped by length&quot;" />
+            <option value="&quot;easy.PrintInOrderRunnerTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -152,7 +152,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="JustFunTest.should sum strings len" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PrintInOrderRunnerTest.should return in order 2 3 1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -165,7 +165,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;easy.JustFunTest.should sum strings len&quot;" />
+            <option value="&quot;easy.PrintInOrderRunnerTest.should return in order 2 3 1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -175,7 +175,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PartitioningIntoMinimumNumberOfDeciBinaryNumbersTest.should solve" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PrintInOrderRunnerTest.should return in order 3 2 1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -188,7 +188,30 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;medium.PartitioningIntoMinimumNumberOfDeciBinaryNumbersTest.should solve&quot;" />
+            <option value="&quot;easy.PrintInOrderRunnerTest.should return in order 3 2 1&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PrintInOrderRunnerTest.should return in order" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;easy.PrintInOrderRunnerTest.should return in order&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -221,36 +244,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="RemoveElementTest.should remove elements2 " type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;easy.RemoveElementTest.should remove elements2 &quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.PrintInOrderRunnerTest.should return in order 3 2 1" />
+        <item itemvalue="Gradle.PrintInOrderRunnerTest.should return in order 2 3 1" />
+        <item itemvalue="Gradle.PrintInOrderRunnerTest" />
+        <item itemvalue="Gradle.PrintInOrderRunnerTest.should return in order" />
         <item itemvalue="Gradle.RemoveElementTest.should remove elements" />
-        <item itemvalue="Gradle.RemoveElementTest.should remove elements2 " />
-        <item itemvalue="Gradle.PartitioningIntoMinimumNumberOfDeciBinaryNumbersTest.should solve" />
-        <item itemvalue="Gradle.JustFunTest.should sum strings len" />
-        <item itemvalue="Gradle.JustFunTest.should map to map gropped by length" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +272,7 @@
       <workItem from="1643973910192" duration="438000" />
       <workItem from="1644164102420" duration="13559000" />
       <workItem from="1644921319579" duration="348000" />
-      <workItem from="1645196018034" duration="9859000" />
+      <workItem from="1645196018034" duration="14336000" />
     </task>
     <servers />
   </component>
@@ -357,11 +357,6 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/easy/MinimumIndexSumofTwoLists.kt</url>
           <line>12</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/easy/RemoveElement.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
