@@ -124,11 +124,34 @@
       <recent name="easy" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="medium" />
       <recent name="easy" />
+      <recent name="medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.NumberofLaserBeamsinaBankTest.should solve first case">
+  <component name="RunManager" selected="Gradle.IsomorphicStringTest.should solve simple case">
+    <configuration name="IsomorphicStringTest.should solve simple case" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;easy.IsomorphicStringTest.should solve simple case&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="MergeNodesInBetweenZerosTest.should solve simple case" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -198,29 +221,6 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PrintInOrderRunnerTest.should return in order 3 2 1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;easy.PrintInOrderRunnerTest.should return in order 3 2 1&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="RemoveDuplicatesfromSortedListTest.should solve simple case" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -246,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.IsomorphicStringTest.should solve simple case" />
         <item itemvalue="Gradle.NumberofLaserBeamsinaBankTest.should solve first case" />
         <item itemvalue="Gradle.MergeNodesInBetweenZerosTest.should solve simple case" />
         <item itemvalue="Gradle.RemoveDuplicatesfromSortedListTest.should solve simple case" />
         <item itemvalue="Gradle.PrintInOrderRunnerTest" />
-        <item itemvalue="Gradle.PrintInOrderRunnerTest.should return in order 3 2 1" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +273,7 @@
       <workItem from="1644164102420" duration="13559000" />
       <workItem from="1644921319579" duration="348000" />
       <workItem from="1645196018034" duration="15652000" />
-      <workItem from="1645709762362" duration="6700000" />
+      <workItem from="1645709762362" duration="9595000" />
     </task>
     <servers />
   </component>
