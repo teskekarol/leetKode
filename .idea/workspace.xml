@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fd844a2a-8933-4a8d-bc28-5ef22a9b2f17" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/RemoveDuplicatesfromSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/RemoveDuplicatesfromSortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/easy/RemoveDuplicatesfromSortedListTest.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/easy/RemoveDuplicatesfromSortedListTest.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,11 +126,34 @@
       <recent name="easy" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="easy" />
       <recent name="medium" />
+      <recent name="easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.RemoveDuplicatesfromSortedListTest.should solve simple case">
+  <component name="RunManager" selected="Gradle.MergeNodesInBetweenZerosTest.should solve simple case">
+    <configuration name="MergeNodesInBetweenZerosTest.should solve simple case" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;medium.MergeNodesInBetweenZerosTest.should solve simple case&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="PrintInOrderRunnerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -198,29 +223,6 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PrintInOrderRunnerTest.should return in order" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;easy.PrintInOrderRunnerTest.should return in order&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="RemoveDuplicatesfromSortedListTest.should solve simple case" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -246,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MergeNodesInBetweenZerosTest.should solve simple case" />
         <item itemvalue="Gradle.RemoveDuplicatesfromSortedListTest.should solve simple case" />
         <item itemvalue="Gradle.PrintInOrderRunnerTest" />
         <item itemvalue="Gradle.PrintInOrderRunnerTest.should return in order 3 2 1" />
         <item itemvalue="Gradle.PrintInOrderRunnerTest.should return in order 2 3 1" />
-        <item itemvalue="Gradle.PrintInOrderRunnerTest.should return in order" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +275,7 @@
       <workItem from="1644164102420" duration="13559000" />
       <workItem from="1644921319579" duration="348000" />
       <workItem from="1645196018034" duration="15652000" />
-      <workItem from="1645709762362" duration="1704000" />
+      <workItem from="1645709762362" duration="3921000" />
     </task>
     <servers />
   </component>
@@ -358,6 +360,21 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/easy/MinimumIndexSumofTwoLists.kt</url>
           <line>12</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/medium/MergeNodesInBetweenZeros.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/medium/MergeNodesInBetweenZeros.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/medium/MergeNodesInBetweenZeros.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
