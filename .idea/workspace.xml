@@ -128,7 +128,7 @@
       <recent name="medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.PrintInOrderRunnerTest.should return in order 3 2 1">
+  <component name="RunManager" selected="Gradle.RemoveDuplicatesfromSortedListTest.should solve simple case">
     <configuration name="PrintInOrderRunnerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -221,7 +221,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="RemoveElementTest.should remove elements" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="RemoveDuplicatesfromSortedListTest.should solve simple case" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -234,7 +234,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;easy.RemoveElementTest.should remove elements&quot;" />
+            <option value="&quot;easy.RemoveDuplicatesfromSortedListTest.should solve simple case&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -246,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.RemoveDuplicatesfromSortedListTest.should solve simple case" />
+        <item itemvalue="Gradle.PrintInOrderRunnerTest" />
         <item itemvalue="Gradle.PrintInOrderRunnerTest.should return in order 3 2 1" />
         <item itemvalue="Gradle.PrintInOrderRunnerTest.should return in order 2 3 1" />
-        <item itemvalue="Gradle.PrintInOrderRunnerTest" />
         <item itemvalue="Gradle.PrintInOrderRunnerTest.should return in order" />
-        <item itemvalue="Gradle.RemoveElementTest.should remove elements" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +272,8 @@
       <workItem from="1643973910192" duration="438000" />
       <workItem from="1644164102420" duration="13559000" />
       <workItem from="1644921319579" duration="348000" />
-      <workItem from="1645196018034" duration="14336000" />
+      <workItem from="1645196018034" duration="15652000" />
+      <workItem from="1645709762362" duration="1704000" />
     </task>
     <servers />
   </component>
