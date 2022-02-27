@@ -128,7 +128,7 @@
       <recent name="medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DecodeXORedArrayTest">
+  <component name="RunManager" selected="Gradle.LargestNumberAtLeastTwiceofOthersTest.should solve cases">
     <configuration name="DecodeXORedArrayTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -166,6 +166,29 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;easy.IsomorphicStringTest.should solve simple case&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="LargestNumberAtLeastTwiceofOthersTest.should solve cases" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;easy.LargestNumberAtLeastTwiceofOthersTest.should solve cases&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -221,36 +244,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="RemoveDuplicatesfromSortedListTest.should solve simple case" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;easy.RemoveDuplicatesfromSortedListTest.should solve simple case&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.LargestNumberAtLeastTwiceofOthersTest.should solve cases" />
         <item itemvalue="Gradle.DecodeXORedArrayTest" />
         <item itemvalue="Gradle.IsomorphicStringTest.should solve simple case" />
         <item itemvalue="Gradle.NumberofLaserBeamsinaBankTest.should solve first case" />
         <item itemvalue="Gradle.MergeNodesInBetweenZerosTest.should solve simple case" />
-        <item itemvalue="Gradle.RemoveDuplicatesfromSortedListTest.should solve simple case" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +273,7 @@
       <workItem from="1644164102420" duration="13559000" />
       <workItem from="1644921319579" duration="348000" />
       <workItem from="1645196018034" duration="15652000" />
-      <workItem from="1645709762362" duration="10402000" />
+      <workItem from="1645709762362" duration="12162000" />
     </task>
     <servers />
   </component>
